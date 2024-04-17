@@ -1,0 +1,44 @@
+.container{
+   background-color: #000;
+   height: 600px;
+   width: 300px;
+}
+.display{
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+.icons{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.buttons {
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.button{
+    height: 50px;
+    width: 50px;
+    margin: 30px 10px 0 0;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    background-color: #575353;
+    color: #fff;
+}
+.cancel{
+    color: #ff0000;
+}
+.compute{
+    color: #00ff00;
+}
+.equal{
+    color: #fff;
+    background-color: #00ff00;
+
+}
